@@ -15,7 +15,7 @@ def gcd(a, b):
 def lcm(a, b):
     return a*b/gcd(a,b)
 
-# print(lcm(8, 12))
+# print(gcd(8, 12))
 
 # 1- 20 으로 모두 나누어지는 수 : 1-20의 최소 공배수 찾기
 x = 2
